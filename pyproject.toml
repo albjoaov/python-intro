@@ -1,0 +1,18 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "João Albuquerque", email = "joao.albuquerque@quintoandar.com.br"},
+]
+dependencies = ["flask", "black", "flake8"]
+requires-python = ">=3.11"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-pep517>=1.0.0"]
+build-backend = "pdm.pep517.api"
+
+
+[tool]
+[tool.pdm]

@@ -1,0 +1,5 @@
+flask
+black
+flake8
+# sqlalchemy
+# biblioteca-com-versao==1.0.0
