@@ -3,7 +3,7 @@ name = ""
 version = ""
 description = ""
 authors = [
-    {name = "João Albuquerque", email = "joao.albuquerque@quintoandar.com.br"},
+    {name = "João Albuquerque", email = "albjoaov@gmail.com"},
 ]
 dependencies = ["flask", "black", "flake8"]
 requires-python = ">=3.11"
